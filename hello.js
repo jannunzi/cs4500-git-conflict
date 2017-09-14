@@ -1,6 +1,6 @@
 console.log("left 1");
 console.log("left 2");
-console.log("hello 3");
+console.log("left 3");
 console.log("hello 4");
 console.log("left 5");
 console.log("hello 6");

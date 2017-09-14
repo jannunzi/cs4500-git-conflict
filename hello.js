@@ -7,4 +7,4 @@ console.log("hello 6");
 console.log("hello 7");
 console.log("hello 8");
 console.log("hello 9");
-console.log("hello 10");
+console.log("right 10");
